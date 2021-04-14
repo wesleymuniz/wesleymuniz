@@ -2,6 +2,7 @@
 
 <!--
 **wesleymuniz/wesleymuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - 🌱 I’m currently learning typescript, next.js and A.I.
 - 👯 I’m looking to collaborate on open source projects
@@ -9,7 +10,6 @@
 - 📫 How to reach me: say 👋 on Email at [Wesley Muniz](mailto:wesleydmuniz@outlook.com)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I ❤️ 🐶 and 🐱, I ❤️ cooking new recipes, learning new languages and meeting new people.
--->
 
 ### Languages and Tools:
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
