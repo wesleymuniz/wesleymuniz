@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with next.js
 - 📫 How to reach me: say 👋 on Email at [Wesley Muniz](mailto:wesleydmuniz@outlook.com)
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I ❤️ 🐶 and 🐱, I ❤️ cooking new recipes, learning new languages and meeting new people.
+- ⚡ Fun fact: I ❤️ ☕, I ❤️ 🐶 and 🐱, I ❤️ cooking new recipes, learning new languages and meeting new people.
 
 ### Languages and Tools:
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
