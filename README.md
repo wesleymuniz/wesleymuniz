@@ -1,4 +1,4 @@
-### Hi there, I'm Wesley Muniz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Wesley Duarte <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **wesleymuniz/wesleymuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning typescript, next.js and A.I.
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with next.js
-- 📫 How to reach me: say 👋 on Email at [Wesley Muniz](mailto:wesleydmuniz@outlook.com)
+- 📫 How to reach me: say 👋 on Email at [Wesley Duarte](mailto:wesleydmuniz@outlook.com)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I ❤️ ☕, I ❤️ 🐶 and 🐱, I ❤️ cooking new recipes, learning new languages and meeting new people.
 
